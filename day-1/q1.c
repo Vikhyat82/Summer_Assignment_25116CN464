@@ -11,5 +11,4 @@ void main()
         sum+=i;
     }
     printf("sum=%d",sum);
-
 }
