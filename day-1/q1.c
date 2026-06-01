@@ -1,3 +1,4 @@
+//sum of n natural numbers 
 #include <stdio.h>
 void main()
 {
